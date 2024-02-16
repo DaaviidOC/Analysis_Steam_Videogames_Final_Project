@@ -1,4 +1,3 @@
-import fire
 import streamlit as st
 import matplotlib as plt
 import base64
