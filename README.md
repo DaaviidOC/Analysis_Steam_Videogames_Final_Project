@@ -8,7 +8,6 @@ This is my final project for the Data Analysis bootcamp I attended at Upgrade Hu
 This analysis is based on Steam data, updated as of January 2024.
 
 ## Project Content
-
 - CSV Files: Datasets with information extracted for our analysis.
 - Data Extraction: This is the script we used to obtain our data.
 - Initial Analysis: A document where we perform our initial analysis of the data.
@@ -20,6 +19,7 @@ This analysis is based on Steam data, updated as of January 2024.
 - Script.py: Script containing the code for our Streamlit webapp where everything is integrated. You can access it by clicking on the following [link](https://c8fm5jg6uw4tecdvuvx4mj.streamlit.app/).
 
 ## LIBRARIES
+To run the code, first, ensure you have all the dependencies installed:
 - streamlit
 - matplotlib
 - numpy
@@ -34,8 +34,6 @@ This analysis is based on Steam data, updated as of January 2024.
 - statsmodels
 - scikit-learn==1.2.2
 
-
-
 ## ICONS
 https://icons.getbootstrap.com/
 https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
@@ -43,3 +41,11 @@ https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 ## NOTICES
 https://vandal.elespanol.com/noticias/videojuegos
 
+## Contributions
+Contributions are encouraged, with a reminder to adhere to best practices and thorough documentation.
+
+## Acknowledgments
+I would like to express my gratitude to Upgradehub for providing me the opportunity to learn and develop my skills in Data Analytics. Special thanks to Andrés, Demetrio and Rocío, who are fantastic teachers, and to my classmates who supported me throughout this journey.
+
+## Contact Information
+Should you have any questions or inquiries, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/davidofca/).
