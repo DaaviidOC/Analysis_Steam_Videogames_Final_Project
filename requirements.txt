@@ -7,7 +7,6 @@ plotly_express
 Pillow  # Para PIL
 streamlit_option_menu
 scikit-learn
-pickle
 requests
 beautifulsoup4  # Para bs4
 statsmodels
