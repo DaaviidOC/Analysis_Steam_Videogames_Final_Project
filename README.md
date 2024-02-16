@@ -36,6 +36,7 @@ To run the code, first, ensure you have all the dependencies installed:
 
 ## ICONS
 https://icons.getbootstrap.com/
+
 https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 
 ## NOTICES
