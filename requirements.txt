@@ -1,0 +1,32 @@
+import fire
+import streamlit as st
+import matplotlib as plt
+import base64
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import plotly_express as px
+import plotly.graph_objects as go
+from PIL import Image
+import requests
+from streamlit_option_menu import option_menu
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
+import time
+import base64
+from sklearn.ensemble import ExtraTreesRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+import pickle
+import requests
+from bs4 import BeautifulSoup
+from statsmodels.tsa.arima.model import ARIMA
+import matplotlib.pyplot as plt
+import re
+import streamlit.components.v1 as components
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from streamlit.components.v1 import iframe

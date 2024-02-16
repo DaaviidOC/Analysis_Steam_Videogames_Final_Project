@@ -1,0 +1,56 @@
+2024-02-11 18:38:37,371 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Configure stats pid to 74148
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from C:\Users\David\.config\wandb\settings
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\settings
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_init.py:_log_setup():524] Logging user logs to c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\run-20240211_183837-jjs29xbx\logs\debug.log
+2024-02-11 18:38:37,372 INFO    MainThread:74148 [wandb_init.py:_log_setup():525] Logging internal logs to c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\run-20240211_183837-jjs29xbx\logs\debug-internal.log
+2024-02-11 18:38:37,373 INFO    MainThread:74148 [wandb_init.py:_jupyter_setup():470] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001D85D8B2830>
+2024-02-11 18:38:37,373 INFO    MainThread:74148 [wandb_init.py:init():564] calling init triggers
+2024-02-11 18:38:37,373 INFO    MainThread:74148 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {'learning_rates': [0.013, 0.2, 0.3, 0.6], 'max_depths': [3, 4, 5, 6], 'n_estimator': [43, 100, 150], 'loss_functions': ['deviance'], 'subsamples': [0.8, 1.0], 'min_samples_splits': [2, 4], 'min_samples_leaf': [1, 2]}
+2024-02-11 18:38:37,373 INFO    MainThread:74148 [wandb_init.py:init():614] starting backend
+2024-02-11 18:38:37,373 INFO    MainThread:74148 [wandb_init.py:init():618] setting up manager
+2024-02-11 18:38:37,375 INFO    MainThread:74148 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-02-11 18:38:37,378 INFO    MainThread:74148 [wandb_init.py:init():624] backend started and connected
+2024-02-11 18:38:37,386 INFO    MainThread:74148 [wandb_run.py:_label_probe_notebook():1294] probe notebook
+2024-02-11 18:38:37,387 INFO    MainThread:74148 [wandb_run.py:_label_probe_notebook():1304] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-02-11 18:38:37,387 INFO    MainThread:74148 [wandb_init.py:init():716] updated telemetry
+2024-02-11 18:38:37,387 INFO    MainThread:74148 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2024-02-11 18:38:37,882 INFO    MainThread:74148 [wandb_run.py:_on_init():2254] communicating current version
+2024-02-11 18:38:38,007 INFO    MainThread:74148 [wandb_run.py:_on_init():2263] got version response upgrade_message: "wandb version 0.16.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-02-11 18:38:38,007 INFO    MainThread:74148 [wandb_init.py:init():800] starting run threads in backend
+2024-02-11 18:38:38,129 INFO    MainThread:74148 [wandb_run.py:_console_start():2233] atexit reg
+2024-02-11 18:38:38,129 INFO    MainThread:74148 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2024-02-11 18:38:38,130 INFO    MainThread:74148 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2024-02-11 18:38:38,130 INFO    MainThread:74148 [wandb_run.py:_redirect():2178] Redirects installed.
+2024-02-11 18:38:38,130 INFO    MainThread:74148 [wandb_init.py:init():841] run started, returning control to user process
+2024-02-11 18:38:38,598 INFO    MainThread:74148 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 18:38:38,599 INFO    MainThread:74148 [wandb_init.py:_pause_backend():435] pausing backend
+2024-02-11 18:39:32,352 INFO    MainThread:74148 [wandb_init.py:_resume_backend():440] resuming backend
+2024-02-11 18:39:32,367 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Configure stats pid to 74148
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from C:\Users\David\.config\wandb\settings
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\settings
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-11 18:39:32,368 INFO    MainThread:74148 [wandb_init.py:_log_setup():524] Logging user logs to c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\run-20240211_183932-c5ww4n6j\logs\debug.log
+2024-02-11 18:39:32,369 INFO    MainThread:74148 [wandb_init.py:_log_setup():525] Logging internal logs to c:\Users\David\Desktop\upgrade_python\temario_bootcamp\Modulo3\Proyecto_Final\videogames\wandb\run-20240211_183932-c5ww4n6j\logs\debug-internal.log
+2024-02-11 18:39:32,369 INFO    MainThread:74148 [wandb_init.py:init():564] calling init triggers
+2024-02-11 18:39:32,369 INFO    MainThread:74148 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {'learning_rates': [0.013, 0.2, 0.3, 0.6], 'max_depths': [3, 4, 5, 6], 'n_estimator': [43, 100, 150], 'loss_functions': ['deviance'], 'subsamples': [0.8, 1.0], 'min_samples_splits': [2, 4], 'min_samples_leaf': [1, 2]}
+2024-02-11 18:39:32,369 INFO    MainThread:74148 [wandb_init.py:init():589] re-initializing run, found existing run on stack: jjs29xbx
+2024-02-11 18:39:32,371 INFO    MainThread:74148 [wandb_run.py:_finish():1962] finishing run doficar91/vinitoupgrade/jjs29xbx
+2024-02-11 18:39:32,725 INFO    MainThread:74148 [jupyter.py:save_history():445] not saving jupyter history
+2024-02-11 18:39:32,725 INFO    MainThread:74148 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 18:39:32,725 INFO    MainThread:74148 [wandb_init.py:_jupyter_teardown():452] cleaning up jupyter logic
+2024-02-11 18:39:32,725 INFO    MainThread:74148 [wandb_run.py:_atexit_cleanup():2202] got exitcode: 0
+2024-02-11 18:39:32,726 INFO    MainThread:74148 [wandb_run.py:_restore():2185] restore
+2024-02-11 18:39:32,726 INFO    MainThread:74148 [wandb_run.py:_restore():2191] restore done
+2024-02-11 18:39:39,443 INFO    MainThread:74148 [wandb_run.py:_footer_history_summary_info():3760] rendering history
+2024-02-11 18:39:39,443 INFO    MainThread:74148 [wandb_run.py:_footer_history_summary_info():3792] rendering summary
+2024-02-11 18:39:39,447 INFO    MainThread:74148 [wandb_run.py:_footer_sync_info():3719] logging synced files
