@@ -1,4 +1,4 @@
-<img src="https://github.com/DaaviidOC/Analysis_Steam_Videogames_Final_Project/blob/main/imgs/steam_banner.jpg />
+<img src="https://github.com/DaaviidOC/Analysis_Steam_Videogames_Final_Project/blob/main/imgs/steam_banner.jpg" />
 
 # UpgradeHub Bootcamp Data Analyst Final Project: Steam Game Analysis
 
