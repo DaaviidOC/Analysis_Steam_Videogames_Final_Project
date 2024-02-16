@@ -3,6 +3,7 @@ matplotlib
 numpy
 pandas
 seaborn
+plotly
 plotly_express
 Pillow  # Para PIL
 streamlit_option_menu
@@ -10,3 +11,4 @@ scikit-learn
 requests
 beautifulsoup4  # Para bs4
 statsmodels
+scikit-learn
