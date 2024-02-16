@@ -17,7 +17,7 @@ This analysis is based on Steam data, updated as of January 2024.
 - Time Series Analysis: We use the ARIMA model for our time series analysis and make future predictions about video games.
 - Machine Learning: We employ a regression model (GradientBoosterRegressor) to make future price predictions for potential video games being released to the market, and use a classification model (RandomForestClassifier) to predict the future success of a video game set to be launched.
 - Power BI Dashboard: A dashboard on the top 4 companies that have launched the most video games on Steam.
-- Script.py: Script containing the code for our Streamlit webapp where everything is integrated. You can access it by clicking on the following [link]("https://c8fm5jg6uw4tecdvuvx4mj.streamlit.app/").
+- Script.py: Script containing the code for our Streamlit webapp where everything is integrated. You can access it by clicking on the following [link](https://c8fm5jg6uw4tecdvuvx4mj.streamlit.app/).
 
 ## LIBRARIES
 - streamlit
